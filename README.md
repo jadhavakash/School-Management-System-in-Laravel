@@ -1,2 +1,2 @@
 # School-Management-System-in-Laravel
-Laravel,PHP
+## Simple School Management system design and developed in Laravel,PHP
